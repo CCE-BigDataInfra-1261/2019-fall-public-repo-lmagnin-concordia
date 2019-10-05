@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "Hello CEBD 1261!"]
+CMD ["echo", "Hello again CEBD 1261!"]
